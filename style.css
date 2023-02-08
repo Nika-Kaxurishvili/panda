@@ -1,0 +1,24 @@
+body{
+    background-color: #494949;
+}
+.div1{
+    width: auto;
+    height: 100px;
+    background-color: #424242;
+    border-radius: 30px;
+}
+.txt1{
+    color: white;
+}
+.name{
+    margin-top: -70px;
+    margin-left: 100px;
+    color: white;
+}
+.foto1{
+    border-radius: 30px;
+    margin-top: 50px;
+}
+.text{
+    margin-top: 50px;
+}
